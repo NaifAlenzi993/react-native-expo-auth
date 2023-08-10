@@ -1,3 +1,3 @@
 # README
 
-Autenticação no React Native usando Expo com Context API e Hooks
+Authentication in React Native using Expo with Context API and Hooks
